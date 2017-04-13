@@ -1,7 +1,7 @@
 {
   "name": "first-node",
   "version": "1.0.0",
-  "description": "test project for node server",
+  "description": "test project for 1node server",
   "main": "index.js",
   "author": "subhan.ahsan@live.com",
   "license": "MIT",
